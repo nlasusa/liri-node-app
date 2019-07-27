@@ -40,7 +40,6 @@ Artist(s)
 The song's name
 A preview link of the song from Spotify
 The album containing the song
-If no song is provided, the program defaults to "The Sign" by Ace of Base.
 
 node liri.js movie-this '<movie name here>'
 This will output the following movie information to your terminal/bash window:
@@ -52,7 +51,7 @@ This will output the following movie information to your terminal/bash window:
 * Language(s)
 * Plot of the movie
 * Actors in the movie
-If the user does not enter a movie selection, the program outputs data for the movie 'Mr. Nobody.'
+If the user does not enter a movie selection, the program outputs data for the movie 'The Sweetest Thing'
 
 node liri.js do-what-it-says
 Runs spotify-this-song for "I Want it That Way".
