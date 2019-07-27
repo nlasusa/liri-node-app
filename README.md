@@ -58,4 +58,4 @@ node liri.js do-what-it-says
 Runs spotify-this-song for "I Want it That Way".
 
 
-# Screenshots of the process in terminal/bash window is found in my demonstration doc "NLdemonstration.docx"
+# Screenshots of the process in terminal/bash window is found in my demonstration doc "nldemo" in my github. 

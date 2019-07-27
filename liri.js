@@ -45,7 +45,7 @@ function getBands(artist) {
       console.log("Name of the venue:", response.data[0].venue.name);
       console.log("Venue location:", response.data[0].venue.city);
       var eventDate = moment(response.data[0].datetime).format('MM/DD/YYYY');
-      console.log("Date of the Event:", eventDate);
+      console.log("Date of the Event:", eventDate); 
     })
     .catch(function (error) {
       console.log(error);
