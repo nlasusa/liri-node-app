@@ -40,6 +40,7 @@ Artist(s)
 The song's name
 A preview link of the song from Spotify
 The album containing the song
+f no song is provided, the program defaults to "Born in the USA" by Bruce Springsteen.
 
 node liri.js movie-this '<movie name here>'
 This will output the following movie information to your terminal/bash window:
